@@ -409,6 +409,11 @@
         "warning.border": null,
         "players": [
           {
+            "cursor": "#66B2FF",
+            "background": "#66B2FF",
+            "selection": "#66B2FF20"
+          },
+          {
             "cursor": "#13DAEC",
             "background": "#13DAEC",
             "selection": "#13DAEC20"
@@ -417,11 +422,6 @@
             "cursor": "#2DD296",
             "background": "#2DD296",
             "selection": "#2DD29620"
-          },
-          {
-            "cursor": "#66B2FF",
-            "background": "#66B2FF",
-            "selection": "#66B2FF20"
           },
           {
             "cursor": "#AC8CD9",
