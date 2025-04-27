@@ -1,0 +1,7 @@
+id = "mnemonic"
+name = "Mnemonic"
+version = "0.0.1"
+schema_version = 1
+authors = ["Travis Vanderstad <t.vanderstad@gmail.com>"]
+description = "A vibrant, temperature-neutral theme"
+repository = "https://github.com/tvanderstad/mnemonic-zed"
