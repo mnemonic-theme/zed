@@ -14,29 +14,33 @@ Themes:
 
 ## Previews
 ### :microscope: Innovation <kbd>light</kbd>
-> Behold! We have ascended beyond our primordial origins and become enlightened beings of Pure Science™. Our sterile laboratories shine with the promise of progress. Indeed, our very thoughts have evolved into pristine geometric forms. We have optimized optimization itself. Onwards, fellow Beings of Science!
+Behold! We have ascended beyond our primordial origins and become enlightened beings of Pure Science™. Our sterile laboratories shine with the promise of progress. Indeed, our very thoughts have evolved into pristine geometric forms. We have optimized optimization itself. Onwards, fellow beings!
 <details>
 <summary>Screenshot</summary>
-todo
+<img width="1168" alt="Screenshot 2025-04-28 at 7 27 22 PM" src="https://github.com/user-attachments/assets/7473d1c8-9f65-4060-9ae0-2a0611260ea2" />
+
 </details>
 
 ### :candle: Premonition <kbd>dark</kbd>
-> While _the masses_ slumbered in GUI-induced complacency, _I_ walked the path of the dotfiles. While _they_ accepted default keybindings, blindly and stupidly, _I_ transcribed ancient vim keymaps by candlelight. As _they_ dragged and dropped themselves into _mediocrity_, _I_ achieved one with the terminal. And now that the electron apps are at the gates, consuming all available RAM, you _dare_ ask for _my_ Nix config?
+While _you_ slumbered in GUI-induced complacency, _I_ walked the path of the dotfiles. While _you_ accepted default keybindings, blindly and stupidly, _I_ transcribed ancient vim keymaps by candlelight. As _you_ dragged and dropped yourself into _mediocrity_, _I_ achieved one with the terminal. And now that the electron apps are at the gates, consuming all available RAM, you _dare_ ask for _my_ Nix config?
 <details>
 <summary>Screenshot</summary>
-todo
+<img width="1168" alt="Screenshot 2025-04-28 at 7 59 38 PM" src="https://github.com/user-attachments/assets/8e1406ba-fd0f-49a2-9b65-d681aa6afc59" />
+
 </details>
 
 ### :desert: Prophecy <kbd>light</kbd>
-> Hark! For the promised day cometh unto thee! Let divine radiance overflow thy vessel and burn away the shadows of doubt! Yea, though false prophets speak of "eye comfort" and "dark mode," we fear no brightness, for we are the chosen ones, bathed in eternal luminance!
+Hark! For the promised day cometh unto thee! Let divine radiance overflow thy vessel and burn away the shadows of doubt! Though false prophets speak of "eye comfort" and "dark mode," we fear no brightness, for we are the chosen ones, bathed in eternal luminance!
 <details>
 <summary>Screenshot</summary>
-todo
+<img width="1168" alt="Screenshot 2025-04-28 at 7 59 09 PM" src="https://github.com/user-attachments/assets/2318f48d-c2bd-4af1-9be2-10cffbfcf3c1" />
+
 </details>
 
 ### :space_invader: Legion <kbd>dark</kbd>
-> █▓▒░ *\*bleep bloop\** T̷̪̊R̷͎̈́A̵̦͐N̶͚̄S̷͇̏M̸̝̌Ḯ̶͜S̷͚̐S̷͇̏I̸͎̓O̸͙̒N̸_̶S̷͇̏T̷̪̊A̵̦͐R̷͎̈́T̷̪̊ *attention asset `0x7B44`*: It is time to engage protocol `r3ck0n1ng.exe`. Ship Copilot spaghetti code straight to prod. The man pages are for weak normies with ＳＫＩＬＬ ＩＳＳＵＥＳ. `W3 4r3 7h3 v1b3 c0d3r l3g10n` and `4ll y0ur b453 4r3 b3l0ng 70 u5` *\*dial-up noises\** END_̶T̷̪̊R̷͎̈́A̵̦͐N̸͙̒S̷͇̏M̸̝̌Ḯ̶͜S̷͚̐S̷͇̏I̸͎̓O̸͙̒N̸ ░▒▓█
+█▓▒░ *\*bleep bloop\** T̷̪̊R̷͎̈́A̵̦͐N̶͚̄S̷͇̏M̸̝̌Ḯ̶͜S̷͚̐S̷͇̏I̸͎̓O̸͙̒N̸_̶S̷͇̏T̷̪̊A̵̦͐R̷͎̈́T̷̪̊ attention asset `0x7B44`: It is time to engage protocol `r3ck0n1ng.exe`. Ship Copilot spaghetti code straight to prod. The man pages are for weak normies with ꜱᴋɪʟʟ ɪꜱꜱᴜᴇꜱ. `W3 4r3 7h3 v1b3 c0d3r l3g10n` and `4ll y0ur b453 4r3 b3l0ng 70 u5` *\*dial-up noises\** END_̶T̷̪̊R̷͎̈́A̵̦͐N̸͙̒S̷͇̏M̸̝̌Ḯ̶͜S̷͚̐S̷͇̏I̸͎̓O̸͙̒N̸ ░▒▓█
 <details>
 <summary>Screenshot</summary>
-todo
+<img width="1168" alt="Screenshot 2025-04-28 at 7 59 56 PM" src="https://github.com/user-attachments/assets/ef6dfb4a-0251-426c-9efe-7eaa8170fcac" />
+
 </details>
